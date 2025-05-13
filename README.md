@@ -16,4 +16,4 @@ Curso HTML e CSS: trabalhando com responsividade e publicação de projetos
 
 1. [acessar o código fonte do projeto](https://github.com/viniciusalmeidaalves/curso-front-end-page-portfolio)
 2. [baixar o código fonte do projeto](https://github.com/viniciusalmeidaalves/curso-front-end-page-portfolio/archive/refs/heads/main.zip)
-3. [visualizar o projeto na web](https://curso-front-end-page-portfolio-gt8v.vercel.app/)
+3. [visualizar o projeto na web](https://curso-front-end-page-portfolio.vercel.app/)
